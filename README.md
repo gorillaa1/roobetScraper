@@ -4,3 +4,4 @@ I created a script to scrape the site for Roobet's Crash Crypto Casino game and 
 
 From testing, returns are about 55% but definitely need more data and time to test the validity of the claim.
 
+
