@@ -129,3 +129,4 @@ class analysis():
                 index += 1
             cash += 0.01
         self.optimal.to_csv("optimal.csv")
+
